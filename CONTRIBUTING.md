@@ -44,7 +44,7 @@ entirely.
 
 Fixes #1
     
-Signed-off-by: Abc Xyz <abc.xyz@intel.com>
+Signed-off-by: mashenghao <mashenghao@126.com>
 ```
 
 ## Pull requests
@@ -55,3 +55,4 @@ We accept github pull requests.
 
 The project uses the Slack chat:
 - Slack: #[Intel-Corp](https://intel-corp.herokuapp.com/) channel on slack
+
